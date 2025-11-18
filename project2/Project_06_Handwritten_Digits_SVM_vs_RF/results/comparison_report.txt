@@ -1,0 +1,4 @@
+Model Comparison Report
+========================
+SVM Accuracy: 0.9631, Time: 337.77 sec
+Random Forest Accuracy: 0.9675, Time: 41.25 sec
