@@ -1,1 +1,0 @@
-# Handwritten-digits-SVM-vs-RF-
