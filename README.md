@@ -143,8 +143,8 @@ Both models achieved high accuracy, demonstrating MNIST’s suitability for clas
 
 | Model             | Accuracy | Training Time | Key Notes                                   |
 | ----------------- | -------- | ------------- | ------------------------------------------- |
-| **SVM (RBF)**     | ~98.6%   | Slower        | Best accuracy, strong at complex boundaries |
-| **Random Forest** | ~96–97%  | Faster        | More robust, simpler, faster to train       |
+| **SVM (RBF)**     | ~96-97%   | Slower        | Best accuracy, strong at complex boundaries |
+| **Random Forest** | ~96–98%  | Faster        | More robust, simpler, faster to train       |
 
 ### **Insights**
 
@@ -228,3 +228,4 @@ This project includes the following contributions:
 * Breiman – Random Forests
 
 ---
+
