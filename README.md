@@ -161,15 +161,10 @@ All scripts follow deterministic operations to ensure repeatable results.
 
 This project includes the following contributions:
 
-* Complete preprocessing pipeline
-* SVM and Random Forest model implementation
-* EDA (datasets, charts, sample visualizations)
-* Hyperparameter exploration
-* Evaluation and comparison
-* Final report creation
-* Presentation slides
-* Version control and repository documentation
-
+24BEC011 - Varshtiht - metrics, run.bat and run.sh
+24BEC024 - Manasvi - Documentation, report
+24BEC046 - Prashanth - Exploratory Data Analysis, READme
+24BEC058 - Siva Vishnu Prian - Model training,src,pptx
 ---
 
 ## 📎 10. References
@@ -181,5 +176,6 @@ This project includes the following contributions:
 * Breiman – Random Forests
 
 ---
+
 
 
