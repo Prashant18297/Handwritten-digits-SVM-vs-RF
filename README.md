@@ -161,10 +161,10 @@ All scripts follow deterministic operations to ensure repeatable results.
 
 This project includes the following contributions:
 
-24BEC011 - Varshtiht - metrics, run.bat and run.sh
-24BEC024 - Manasvi - Documentation, report
-24BEC046 - Prashanth - Exploratory Data Analysis, READme
-24BEC058 - Siva Vishnu Prian - Model training,src,pptx
+* 24BEC011 - Varshtiht - metrics, run.bat and run.sh
+* 24BEC024 - Manasvi - Documentation, report
+* 24BEC046 - Prashanth - Exploratory Data Analysis, READme
+* 24BEC058 - Siva Vishnu Prian - Model training,src,pptx
 ---
 
 ## 📎 10. References
@@ -176,6 +176,7 @@ This project includes the following contributions:
 * Breiman – Random Forests
 
 ---
+
 
 
 
