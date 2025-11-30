@@ -24,44 +24,7 @@ The MNIST dataset provides a benchmark platform to compare models and understand
 
 ---
 
-## 📂 3. Repository Structure
-
-```
-├── data/
-│   └── README.md
-│
-├── src/
-│   ├── data_loader.py
-│   ├── preprocess.py
-│   ├── train_svm.py
-│   ├── train_rf.py
-│   └── evaluate.py
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_SVM_Model.ipynb
-│   └── 03_RF_Model.ipynb
-│
-├── figures/
-│   ├── class_distribution.png
-│   ├── svm_confusion_matrix.png
-│   ├── rf_confusion_matrix.png
-│   └── sample_digits.png
-│
-├── reports/
-│   └── MNIST_Final_Report.pdf
-│
-├── slides/
-│   └── MNIST_Presentation.pptx
-│
-├── requirements.txt
-├── run.sh
-└── README.md
-```
-
----
-
-## 📊 4. Dataset Description
+## 📊 3. Dataset Description
 
 **Dataset:** MNIST – Handwritten Digit Database
 **Source:** OpenML (554) / Yann LeCun
@@ -77,7 +40,7 @@ The MNIST dataset provides a benchmark platform to compare models and understand
 
 ---
 
-## 🔍 5. Exploratory Data Analysis (EDA)
+## 🔍 4. Exploratory Data Analysis (EDA)
 
 Key findings from dataset inspection:
 
@@ -96,7 +59,7 @@ EDA included visualizations such as:
 
 ---
 
-## ⚙️ 6. Preprocessing Pipeline
+## ⚙️ 5. Preprocessing Pipeline
 
 1. **Load MNIST** via OpenML
 2. **Flatten** 28×28 images into 784-dimensional vectors
@@ -111,7 +74,7 @@ This preprocessing ensures both models receive standardized input vectors.
 
 ---
 
-## 🤖 7. Models Implemented
+## 🤖 6. Models Implemented
 
 ### **Support Vector Machine (SVM)**
 
@@ -135,7 +98,7 @@ This preprocessing ensures both models receive standardized input vectors.
 
 ---
 
-## 📈 8. Results & Discussion
+## 📈 7. Results & Discussion
 
 Both models achieved high accuracy, demonstrating MNIST’s suitability for classical ML algorithms.
 
@@ -164,7 +127,7 @@ Both models achieved high accuracy, demonstrating MNIST’s suitability for clas
 
 ---
 
-## 🧪 9. Reproducibility
+## 🧪 8. Reproducibility
 
 To reproduce the project:
 
@@ -194,7 +157,7 @@ All scripts follow deterministic operations to ensure repeatable results.
 
 ---
 
-## 🧑‍💻 10. Individual Contribution
+## 🧑‍💻 9. Individual Contribution
 
 This project includes the following contributions:
 
@@ -209,17 +172,7 @@ This project includes the following contributions:
 
 ---
 
-## 🔮 11. Future Work
-
-* Implement **CNN-based digit classification** (Deep Learning)
-* Use **PCA** for dimensionality reduction
-* Perform **grid search / random search** for improved hyperparameters
-* Add **data augmentation** to simulate real-world samples
-* Explore **gradient boosting models**
-
----
-
-## 📎 12. References
+## 📎 10. References
 
 * Yann LeCun, “The MNIST Database”
 * Scikit-Learn Documentation
@@ -228,4 +181,5 @@ This project includes the following contributions:
 * Breiman – Random Forests
 
 ---
+
 
